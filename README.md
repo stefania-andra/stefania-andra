@@ -1,4 +1,9 @@
-## Hi there 👋
+ # 🌸 Hi, I’m Stefi! 🌸  
+## 🌻 About me
+👩‍💻 MSc Computer Science (Conversion) student @ QMUL 
+🐍 Growing Python skills one project at a time
+🌱 Always growing, always curious  
+
 
 <!--
 **stefania-andra/stefania-andra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
